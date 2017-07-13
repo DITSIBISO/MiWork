@@ -1,0 +1,17 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MiWork</string>
+
+    <!-- Category name for phrases [Char limit=20]  -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [Char limit=20]  -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [Char limit=20]  -->
+    <string name="category_numbers">Numbers</string>
+
+
+    <!-- Category name for the vocabulary words for family members [Char limit=20]  -->
+    <string name="category_family">Family Members</string>
+</resources>
